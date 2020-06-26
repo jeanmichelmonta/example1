@@ -10,3 +10,5 @@ Speaks too much!
 Drinks Cola!
 
 Loves chocolate cookies! 
+
+> I have always been angry
