@@ -4,3 +4,9 @@
 A little bit too lazy! 
 
 ## But I like chocolate cookies!!
+
+Calm
+
+Drink cola
+
+Speak a lot
