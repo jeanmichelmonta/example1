@@ -1,12 +1,12 @@
 
 # My New Title
 
-A little bit too lazy! 
+A little bit too lazy!
 
-## But I like chocolate cookies!!
+# Character traits
 
-Calm
+Speaks too much!
 
-Drink cola
+Drinks Cola!
 
-Speak a lot
+Loves chocolate cookies! 
