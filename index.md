@@ -13,4 +13,6 @@ Loves chocolate cookies!
 
 > I have always been angry
 
-img src=https://www.chefkoch.de/rezepte/737271176286977/Chocolate-Choc-Cookies.html
+
+
+img src=https://img.chefkoch-cdn.de/rezepte/737271176286977/bilder/1287488/crop-960x640/chocolate-choc-cookies.jpg
