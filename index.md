@@ -3,7 +3,7 @@
 
 A little bit too lazy!
 
-# Character traits
+## Character traits
 
 Speaks too much!
 
